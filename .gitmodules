@@ -1,6 +1,3 @@
-[submodule "WW1"]
-	path = WW1
-	url = git@github.com:CoachEd/WW1.git
 [submodule "WW2"]
 	path = WW2
 	url = git@github.com:CoachEd/WW2.git
